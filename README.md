@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexTouchedGrass
-- 👀 Coding, Lifting, and video-games.
-- 🌱 Java
+- 👀 Interested in Coding, Lifting, and video-games.
+- 🌱 Learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 Personal : alexanderjdp@gmail.com
 
